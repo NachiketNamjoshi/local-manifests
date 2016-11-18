@@ -24,6 +24,6 @@
            sync-c="true"
            sync-j="4" />
 
-<project path="prebuilts/ndk" name="platform/prebuilts/ndk" groups="pdk" />
+<project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
 
 </manifest>
