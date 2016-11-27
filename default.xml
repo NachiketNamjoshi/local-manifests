@@ -25,5 +25,6 @@
 sync-j="4" />
 
 <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk,tradefed" />
-
+<project path="prebuilts/ndk" name="platform/prebuilts/ndk" groups="pdk" />
+<project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-5.1" />
 </manifest>
